@@ -1,2 +1,6 @@
-# Sitecore Dynamic Placeholders
-This is an implementation of Dynamic Placeholders and eventually other rendering enhancements built with Helix for use with .Net MVC.
+# Sitecore Advanced Renderings
+This is source that includes a wide range of enhancements to renderings in Sitecore.  Developed using the Helix methodology and built around Sitecore Mvc.
+
+It includes the following rendering enhancements:
+
+1. Dynamic Placeholders
